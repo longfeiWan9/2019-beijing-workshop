@@ -1,0 +1,8 @@
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\bin\Debug\nep5.dll
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\bin\Debug\nep5.pdb
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\bin\Debug\Neo.SmartContract.Framework.dll
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\obj\Debug\nep5.csprojAssemblyReference.cache
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\obj\Debug\nep5.csproj.CoreCompileInputs.cache
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\obj\Debug\nep5.csproj.CopyComplete
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\obj\Debug\nep5.dll
+C:\Users\Surface\Desktop\workshop\C#\nep5\nep5\obj\Debug\nep5.pdb
