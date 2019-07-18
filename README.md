@@ -112,7 +112,7 @@ sc invoke **合约Hash** transfer ['**From Address**', '**To Address**', 100]
 #### 1. 使用neo-SDK与区块链交互 - 私链 & 测试网
 此处以 [JavaScript SDK - neon-js](http://cityofzion.io/neon-js/) 为例。
 1. 如何使用，请看 [neon-js官方文档](http://cityofzion.io/neon-js/docs/en/installation.html)
-2. 具体的使用例子，请看 [SDK-samples]()
+2. 具体的使用例子，请看 [SDK-samples](./SDK-samples)
 
 #### 2. 使用钱包插件与区块链交互 - 测试网
 钱包插件：（具体的安装和使用说明）
@@ -121,4 +121,3 @@ sc invoke **合约Hash** transfer ['**From Address**', '**To Address**', 100]
 
 
 ## 3. dApp demo
-代码请查看，[]()
