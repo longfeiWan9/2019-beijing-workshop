@@ -1,8 +1,0 @@
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\bin\Debug\hello.dll
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\bin\Debug\hello.pdb
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\bin\Debug\Neo.SmartContract.Framework.dll
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\obj\Debug\hello.csprojAssemblyReference.cache
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\obj\Debug\hello.csproj.CopyComplete
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\obj\Debug\hello.dll
-C:\Users\Surface\Desktop\workshop\C#\hello\hello\obj\Debug\hello.pdb
