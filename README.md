@@ -6,11 +6,9 @@
 
 [NEO 官方技术文档](https://docs.neo.org/zh-cn/index.html)
 
-https://docs.neo.org/zh-cn/index.html
 
 [NEO.Game 开发指南](https://github.com/neo-ngd/NEO.Game-Developer-Guide)
 
 
 [NEO Tutorial](https://neo-ngd.github.io/NEO-Tutorial/)
-
 
