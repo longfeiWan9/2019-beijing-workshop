@@ -38,10 +38,10 @@
  **注**: Windows家庭版用户应当安装 [Docker Toolbox](https://docs.docker.com/toolbox/toolbox_install_windows/) 
 
  ```
- ---下载neo-local代码
+ //下载neo-local代码
  git clone https://github.com/CityOfZion/neo-local.git
 
- //进入到neo-local的文件加下面 & 切换至 developer 分支
+ //进入到neo-local的文件加下面 & 切换至 develop 分支
  cd "neo-local文件夹路径"
  git checkout develop
 
