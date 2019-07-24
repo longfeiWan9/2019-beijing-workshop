@@ -89,7 +89,7 @@ NEO支持多语言开发智能合约，比较完善的语言支持有：C#，pyt
 * 任何语言实现的合约，都需要通过编译器，编译成为avm文件。
 * 通过`neo-local`内置的节点`neo-python`可以部署avm文件。
 ```
-//此处以NEP-5合约为例
+//此处以NEP-5合约为例, 做一下操作是需要打开钱包，并且保证有足够的GAS支付部署合约费用
 
 //1. 首先可以先测试合约，并没有部署到私链
 sc load_run /smart-contracts/nep5.avm True False False 0710 07 name []
